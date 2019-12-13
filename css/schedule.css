@@ -1,0 +1,28 @@
+.schedule-classic .modern-tab .sppb-nav-modern li.active a {
+  background:
+    #81edd0;
+  color:
+    #fff;
+}
+
+.ts_schedule_area .schedule-listing .schedule-slot-time {
+  background: #81edd0;
+}
+
+.sppb-btn.sppb-btn-primary, .sppb-sp-slider-button .sp-slider-btn-text.sppb-btn-primary {
+  border-color:
+    #81edd0;
+  background:
+    #81edd0;
+}
+
+.ts_schedule_area .schedule-listing:nth-of-type(2n) .schedule-slot-time {
+    background:
+    #32c18c;
+}
+
+.sppb-btn.sppb-btn-primary:hover, .sppb-sp-slider-button:hover .sp-slider-btn-text.sppb-btn-primary:hover {
+  background:
+  #32c18c;
+  border-color: #32c18c
+}
